@@ -1,7 +1,6 @@
 # Cognitive Engine
 
-If you want the work to develop more sustainably, you are welcome to support it with any intellectual contribution or a [donation]
-<iframe id='kofiframe' src='https://ko-fi.com/memorygate/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='memorygate'></iframe>
+If you want the work to develop more sustainably, you are welcome to support it with any intellectual contribution or a [donation](https://ko-fi.com/memorygate/).
 
 ## What is this?
 
